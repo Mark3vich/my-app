@@ -1,0 +1,10 @@
+.item {
+  color: antiquewhite;
+}
+
+.photo {
+  width: 75px;
+  height: 75px;
+  overflow: hidden;
+  border-radius: 50%;
+}

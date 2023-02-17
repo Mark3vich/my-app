@@ -1,0 +1,16 @@
+.post {
+    color: azure;
+}
+
+.post img {
+    max-width: 350px;
+    height: 100%;
+}
+
+.postBlock {
+    padding: 10px;
+}
+
+.posts {
+    margin-top: 10px;
+}
